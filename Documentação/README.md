@@ -1,0 +1,1 @@
+Pasta dedicada às documentações do projeto Coleta de Lixo.
