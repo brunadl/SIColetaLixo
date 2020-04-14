@@ -1,7 +1,9 @@
 > Engenharia de Software
 >
-# NAC I - SIColetaLixo
+# SIColetaLixo
 
+    NAC I - SIColetaLixo
     Bruna Lanzarini
+    2SIB
     RM: 83421
 
